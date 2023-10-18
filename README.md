@@ -83,6 +83,7 @@ BEGIN TRANSACTION;
 UPDATE produtos SET estoque = estoque - 5 WHERE nome = 'Notebook';
 INSERT INTO histórico (produto_id, quantidade) VALUES (2, -5);
 COMMIT;
+```
 
 ## Exportação e Importação de Dados
 
@@ -97,7 +98,6 @@ Sugestões de boas práticas ao trabalhar com bancos de dados SQLite, incluindo 
 Este tutorial oferece uma visão abrangente do uso do SQLite no desenvolvimento de aplicativos. Esperamos que você se sinta encorajado a praticar e explorar mais o SQLite em seus projetos, aproveitando ao máximo sua versatilidade e eficiência.
 
 Fique à vontade para entrar em contato se tiver alguma dúvida ou quiser discutir mais sobre o SQLite e seu uso. Feliz desenvolvimento!
-```
 
 ## Colaboradores
 
