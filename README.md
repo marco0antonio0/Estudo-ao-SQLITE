@@ -98,3 +98,10 @@ Este tutorial oferece uma visão abrangente do uso do SQLite no desenvolvimento 
 
 Fique à vontade para entrar em contato se tiver alguma dúvida ou quiser discutir mais sobre o SQLite e seu uso. Feliz desenvolvimento!
 ```
+
+## Colaboradores
+
+- [@Marco Antonio](https://github.com/marco0antonio0)
+- [@Diosne Marlon](https://github.com/DiosneMarlon)
+- [@Vinicius de Souza](https://github.com/vinivini204)
+- [@Pedro Gabriel](https://github.com/Pedro-Gabriel-Souza)
